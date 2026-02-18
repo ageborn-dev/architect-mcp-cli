@@ -1,0 +1,20 @@
+{
+  "name": "architect-mcp-cli",
+  "version": "0.1.0",
+  "description": "CLI for Architect MCP Server - manage tools, marketplace and server from your terminal",
+  "main": "index.js",
+  "bin": {
+    "architect": "index.js"
+  },
+  "keywords": [
+    "mcp",
+    "ai-agents",
+    "cli",
+    "tools",
+    "marketplace",
+    "model-context-protocol",
+    "architect"
+  ],
+  "author": "ageborn-dev",
+  "license": "MIT"
+}
